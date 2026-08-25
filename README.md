@@ -7,3 +7,7 @@
 **Контакты:**  
 ✉️[juliya.mironovav@gmail.com](mailto:juliya.mironovav@gmail.com)  
 💬[Telegram](https://t.me/@yuliya_mir)
+
+---
+
+
