@@ -1,10 +1,12 @@
 # Yuliya_Mironova
 Здесь представлено портфолио, демонстрирующее результаты моей работы.
 
-Резюме:
+**Резюме:**
+
 📜[hh.ru](https://spb.hh.ru/resume/a605e4eaff10fccf730039ed1f6d6e72336d42)
 
-Контакты:
-✉️[juliya.mironovav@gmail.com](juliya.mironovav@gmail.com)
+**Контакты:**
 
-💬[Telegram](@Yuliya_mir)
+✉️[juliya.mironovav@gmail.com](mailto:juliya.mironovav@gmail.com)
+
+💬[Telegram](https://t.me/@yuliya_mir)
