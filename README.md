@@ -11,5 +11,5 @@
 ---
 
 **📄Требования**:  
-[- Use Case: Актуализация расписания мастеров]([Use%20Case%20Актуализация%20расписания%20мастеров.pdf)](https://github.com/YuliMir/Yuliya_Mironova/blob/main/Use%20Case_Актуализация_расписания_мастеров.pdf)
+[- Use Case: Актуализация расписания мастеров](https://github.com/YuliMir/Yuliya_Mironova/blob/main/Use%20Case_Актуализация_расписания_мастеров.pdf)
 - User Story: Просмотр мастеров своего расписания и отзывов
