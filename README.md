@@ -6,4 +6,5 @@
 
 Контакты:
 ✉️[juliya.mironovav@gmail.com](juliya.mironovav@gmail.com)
-💬[Telegram] (@Yuliya_mir)
+
+💬[Telegram](@Yuliya_mir)
