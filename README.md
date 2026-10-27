@@ -2,7 +2,7 @@
 Здесь представлено портфолио, демонстрирующее результаты моей работы.
 
 **Резюме:**  
-📜[hh.ru](https://spb.hh.ru/resume/a605e4eaff10fccf730039ed1f6d6e72336d42)
+📜[https://spb.hh.ru/resume/e326b782ff11233ba50039ed1f4a723978775a)]
 
 **Контакты:**  
 ✉️[juliya.mironovav@gmail.com](mailto:juliya.mironovav@gmail.com)  
